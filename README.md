@@ -19,3 +19,5 @@ This project aims to create a dynamic and user-friendly music platform accessibl
 This responsive music platform aspires to be a one-stop shop for all things music, catering to both music enthusiasts and aspiring artists. It will prioritize user experience with a focus on mobile accessibility, personalized discovery, and a thriving music community. 
 
 ![me](https://github.com/ataislucky/responsive-music-platform/blob/main/platform%20musik%20responsive.gif)
+
+## Note: style.css is not included in this repository. If you need it, please contact me at ataislucky@gmail.com. 
